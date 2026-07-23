@@ -15,7 +15,7 @@ O projeto consiste na concepção da infraestrutura em nuvem resiliente, escalá
 
 O diagrama abaixo descreve a topologia completa da solução, cobrindo desde a borda de rede até a camada de armazenamento persistente:
 
-![Diagrama da Arquitetura do MMORPG](./diagrama-mmorpg.png)
+![Diagrama da Arquitetura do MMORPG](./diagrama-mmorpg.gif)
 
 ---
 
