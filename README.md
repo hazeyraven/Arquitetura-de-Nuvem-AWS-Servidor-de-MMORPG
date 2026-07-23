@@ -79,3 +79,8 @@ Com o objetivo de estimar a viabilidade financeira do projeto para uma base esti
 * [Documentação AWS: Gerenciar instâncias EC2](https://docs.aws.amazon.com/pt_br/toolkit-for-visual-studio/latest/user-guide/tkv-ec2-ami.html)
 * [AWS Architecture Icons](https://aws.amazon.com/pt/architecture/icons/)
 * [AWS Pricing Calculator](https://calculator.aws/)
+
+---
+
+>  **Nota de Transparência:**
+> A estrutura e a formatação deste `README.md` foram aprimoradas com o auxílio do **Google Gemini** como um recurso estético e de organização. O objetivo foi transformar a documentação técnica da arquitetura desenvolvida em um formato mais atrativo, legível e profissional para o portfólio. O trabalho em si foi feito por mim utilizando o conhecimento adquirido pelo curso e estudos próprios.
